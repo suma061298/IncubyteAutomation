@@ -26,6 +26,7 @@ public class Login {
 
     @When("user enters valid login credentials")
     public void enterLoginDetails() {
+
         login.login("Suma@gmail.com", "Suma@123");
     }
 
