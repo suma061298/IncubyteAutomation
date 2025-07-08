@@ -1,4 +1,4 @@
-@test
+@suma
 Feature: Magento Sign Up
 
   Scenario: User creates an account

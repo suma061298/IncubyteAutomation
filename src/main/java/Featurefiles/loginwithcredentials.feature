@@ -1,4 +1,4 @@
-@test
+@suma
 Feature: Login to the application
 Scenario: User logs in with created account
 Given user is on Magento login page
